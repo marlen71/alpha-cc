@@ -1,2 +1,2 @@
-# alpha-cc
-alpha.cc
+# alpha.cc release v1
+Screenshots: https://imgur.com/a/alpha-cc-ZJjfjIt
